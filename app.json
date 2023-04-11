@@ -14,37 +14,37 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "14863874",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "3b5d73f27080334a1d730087b552519b",
         "required": true
       },
       "BOT_TOKEN": {
         "description": "A Bot's token from Botfather",
-        "value": "",
+        "value": "5623159617:AAGLLOABErZy8RcQJgZK826uuMch97PUE28",
         "required": true
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com.",
-        "value": "",
+        "value": "mongodb+srv://hnyx:wywyw2@cluster0.9dxlslv.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "Bgt Music",
+        "value": "Shizuka X Music",
         "required": true
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "1829237132",
         "required": true
       },
       "STRING_SESSION": {
         "description": "A Pyrogram String Session.",
-        "value": "",
+        "value": "BQBIGVMPAAway9QU_-abf_dzedApF6fHBX3vw3twwKyYgZPBLSWe3X_RM87K6hwvuciMxezndx6AAuKUFWsGJNA7Nu5lUK26snOOdc2-JY8OcUlF1MsCThbitN1Hqx1irORfpSMW6KCkiVZOiwb8QFAyd7UlTgIoXJTA_d83KNB3qZ-4Sl1Tqma9qMeLxseYf7pKNPF9pNLJw-TYqRwJxyhi3R5jXx4OXQD9fGohTIay8JZ_Ia6A6A6bEdJ_v-VHkT_7_oTqOhb4Ef4vCeZOcJHWnrSrJqX8pA5FYr7yu0taN1piEyENZhEfhnDWVeyZq4VmMRlXb3fBazVyymzpfQlcbQfxjAA",
         "required": true
       },
       "HEROKU_API_KEY": {
@@ -59,7 +59,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Channel ki id mat daal dena bsdk.",
-        "value": "",
+        "value": "-863570609",
         "required": true
       }
     },
