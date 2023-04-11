@@ -197,7 +197,7 @@ async def start_comm(client, message: Message, _):
 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ 𝐎𝐰𝐧𝐞𝐫 : [PANKAJ](https://t.me/pan_kaj_0027)
-┣★ 𝐂𝐡𝐚𝐭: [FRIENDSHIP GRP](https://t.me/friendsforever431)
+┣★ 𝐂𝐡𝐚𝐭: [FRIENDSHIP GRP](https://t.me/friendszone431)
 ┗━━━━━━━━━━━━━━━━━┛
 
 💞 𝐉𝐮𝐬𝐭 𝐀𝐝𝐝 𝐌𝐞 » 𝐓𝐨 𝐘𝐨𝐮𝐫 𝐆𝐫𝐨𝐮𝐩 𝐀𝐧𝐝
@@ -225,7 +225,7 @@ async def start_comm(client, message: Message, _):
 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ 𝐎𝐰𝐧𝐞𝐫 : [PANKAJ](https://t.me/pan_kaj_0027)
-┣★ 𝐂𝐡𝐚𝐭: [FRIENDSHIP GRP](https://t.me/friendsforever431)
+┣★ 𝐂𝐡𝐚𝐭: [FRIENDSHIP GRP](https://t.me/friendszone431)
 ┗━━━━━━━━━━━━━━━━━┛
 
 
@@ -254,7 +254,7 @@ async def start_comm(client, message: Message, _):
 
 ┏━━━━━━━━━━━━━━━━━┓
 ┣★ 𝐎𝐰𝐧𝐞𝐫 : [PANKAJ](https://t.me/pan_kaj_0027)
-┣★ 𝐂𝐡𝐚𝐭: [FRIENDSHIP GRP](https://t.me/friendsforever431)
+┣★ 𝐂𝐡𝐚𝐭: [FRIENDSHIP GRP](https://t.me/friendszone431)
 ┗━━━━━━━━━━━━━━━━━┛
 
 
